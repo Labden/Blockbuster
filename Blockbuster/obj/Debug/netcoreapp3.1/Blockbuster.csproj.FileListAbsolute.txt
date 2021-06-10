@@ -1,0 +1,12 @@
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfoInputs.cache
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfo.cs
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.exe
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.deps.json
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.json
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.dev.json
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.dll
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.pdb
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.dll
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.pdb
+C:\Users\Labden\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.genruntimeconfig.cache
